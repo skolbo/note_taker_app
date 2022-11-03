@@ -15,7 +15,7 @@ npm install
 ## Usage
 npm run start and then navigate to http://localhost:3001 in a web browser.
 ## Application Link 
-[https://skolbo.github.io/weather_dashboard](https://skolbo.github.io/weather_dashboard)
+[https://sskolbo-note-taker.herokuapp.com/](https://sskolbo-note-taker.herokuapp.com/)
 ## Screenshot
 ![Screenshot](/assets/screenshot.png)
 ## License
